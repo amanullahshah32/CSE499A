@@ -1,0 +1,186 @@
+2025-03-29 00:34:11,018 - WARNING - Tesseract OCR not properly configured: tesseract is not installed or it's not in your PATH. See README file for more information.. Scanned document processing will be limited.
+2025-03-29 00:34:26,791 - ERROR - Error processing Datasets\sample cv\2.pdf: 'WordNetCorpusReader' object has no attribute '_LazyCorpusLoader__args'
+2025-03-29 00:34:27,200 - ERROR - Error processing Datasets\sample cv\3.pdf: 'WordNetCorpusReader' object has no attribute '_LazyCorpusLoader__args'
+2025-03-29 00:34:27,972 - ERROR - Error processing Datasets\sample cv\1.1.pdf: 'WordNetCorpusReader' object has no attribute '_LazyCorpusLoader__args'
+2025-03-29 00:34:32,351 - INFO - Processing scanned document with OCR: Datasets\sample cv\scanned cv.pdf
+2025-03-29 00:34:32,361 - ERROR - OCR processing failed for Datasets\sample cv\scanned cv.pdf: Unable to get page count. Is poppler installed and in PATH?
+2025-03-29 00:34:32,850 - INFO - Generated feedback for lisa.park@devmail.com_feedback.txt
+2025-03-29 00:34:32,853 - INFO - Generated feedback for david.miller@javadev.net_feedback.txt
+2025-03-29 00:34:32,854 - INFO - Generated feedback for priya.sharma@mlengineer.ca_feedback.txt
+2025-03-29 00:34:32,854 - INFO - Generated feedback for CV 5.pdf_feedback.txt
+2025-03-29 00:34:32,854 - INFO - Generated feedback for CV 4.pdf_feedback.txt
+2025-03-29 00:34:32,860 - INFO - Generated feedback for maria.gonzalez@careerchange.com_feedback.txt
+2025-03-29 00:34:32,860 - INFO - Generated feedback for CV 9.pdf_feedback.txt
+2025-03-29 00:34:32,862 - INFO - Generated feedback for CV 2.pdf_feedback.txt
+2025-03-29 00:34:32,862 - INFO - Generated feedback for CV 3.pdf_feedback.txt
+2025-03-29 00:34:32,862 - INFO - Generated feedback for CV 10.pdf_feedback.txt
+2025-03-29 00:34:32,868 - INFO - Generated feedback for CV 6.pdf_feedback.txt
+2025-03-29 00:34:32,870 - INFO - Generated feedback for mark.robinson@devopsmail.com_feedback.txt
+2025-03-29 00:34:32,872 - INFO - Generated feedback for alex.turner@dbaexperts.co.uk_feedback.txt
+2025-03-29 00:34:32,873 - INFO - Generated feedback for CV 7.pdf_feedback.txt
+2025-03-29 14:29:05,581 - CRITICAL - Fatal error: name 'check_dependencies' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Aman NSU\AppData\Local\Temp\ipykernel_8924\510608196.py", line 941, in <module>
+    missing_deps = check_dependencies()
+                   ^^^^^^^^^^^^^^^^^^
+NameError: name 'check_dependencies' is not defined
+2025-03-29 14:49:02,533 - INFO - NLTK resources initialized successfully
+2025-03-29 14:49:02,541 - WARNING - Tesseract OCR not properly configured: tesseract is not installed or it's not in your PATH. See README file for more information.. Scanned document processing will be limited.
+2025-03-29 14:49:05,026 - INFO - Processing scanned document with OCR: Datasets\sample cv\scanned cv.pdf
+2025-03-29 14:49:05,026 - ERROR - PDF to image conversion failed: Unable to get page count. Is poppler installed and in PATH?
+2025-03-29 14:49:05,026 - INFO - Trying alternative extraction method...
+2025-03-29 14:49:05,026 - INFO - Using fallback text extraction for Datasets\sample cv\scanned cv.pdf
+2025-03-29 14:49:05,197 - INFO - Generated feedback for emily.chen@datascience.com_feedback.txt
+2025-03-29 14:49:05,199 - INFO - Generated feedback for CV 8.pdf_feedback.txt
+2025-03-29 14:49:05,200 - INFO - Generated feedback for sarah.williamson@awsarchitect.com_feedback.txt
+2025-03-29 14:49:05,202 - INFO - Generated feedback for lisa.park@devmail.com_feedback.txt
+2025-03-29 14:49:05,203 - INFO - Generated feedback for david.miller@javadev.net_feedback.txt
+2025-03-29 14:49:05,204 - INFO - Generated feedback for priya.sharma@mlengineer.ca_feedback.txt
+2025-03-29 14:49:05,205 - INFO - Generated feedback for CV 5.pdf_feedback.txt
+2025-03-29 14:49:05,206 - INFO - Generated feedback for CV 4.pdf_feedback.txt
+2025-03-29 14:49:05,207 - INFO - Generated feedback for maria.gonzalez@careerchange.com_feedback.txt
+2025-03-29 14:49:05,208 - INFO - Generated feedback for CV 9.pdf_feedback.txt
+2025-03-29 14:49:05,209 - INFO - Generated feedback for CV 2.pdf_feedback.txt
+2025-03-29 14:49:05,209 - INFO - Generated feedback for CV 3.pdf_feedback.txt
+2025-03-29 14:49:05,215 - INFO - Generated feedback for CV 10.pdf_feedback.txt
+2025-03-29 14:49:05,215 - INFO - Generated feedback for mark.robinson@devopsmail.com_feedback.txt
+2025-03-29 14:49:05,215 - INFO - Generated feedback for CV 6.pdf_feedback.txt
+2025-03-29 14:49:05,215 - INFO - Generated feedback for alex.turner@dbaexperts.co.uk_feedback.txt
+2025-03-29 14:49:05,215 - INFO - Generated feedback for CV 7.pdf_feedback.txt
+2025-03-29 17:20:58,282 - INFO - NLTK resources initialized successfully
+2025-03-29 17:20:58,682 - INFO - Tesseract OCR initialized successfully.
+2025-03-29 17:21:00,896 - ERROR - OCR failed: Unable to get page count. Is poppler installed and in PATH?
+2025-03-29 17:21:00,896 - INFO - Using fallback text extraction for Datasets\sample cv\scanned cv.pdf
+2025-03-29 17:21:01,029 - INFO - Generated feedback for emily.chen@datascience.com_feedback.txt
+2025-03-29 17:21:01,029 - INFO - Generated feedback for CV 8.pdf_feedback.txt
+2025-03-29 17:21:01,029 - INFO - Generated feedback for sarah.williamson@awsarchitect.com_feedback.txt
+2025-03-29 17:21:01,029 - INFO - Generated feedback for lisa.park@devmail.com_feedback.txt
+2025-03-29 17:21:01,029 - INFO - Generated feedback for david.miller@javadev.net_feedback.txt
+2025-03-29 17:21:01,046 - INFO - Generated feedback for priya.sharma@mlengineer.ca_feedback.txt
+2025-03-29 17:21:01,046 - INFO - Generated feedback for CV 5.pdf_feedback.txt
+2025-03-29 17:21:01,046 - INFO - Generated feedback for CV 4.pdf_feedback.txt
+2025-03-29 17:21:01,046 - INFO - Generated feedback for maria.gonzalez@careerchange.com_feedback.txt
+2025-03-29 17:21:01,046 - INFO - Generated feedback for CV 9.pdf_feedback.txt
+2025-03-29 17:21:01,046 - INFO - Generated feedback for CV 2.pdf_feedback.txt
+2025-03-29 17:21:01,046 - INFO - Generated feedback for CV 3.pdf_feedback.txt
+2025-03-29 17:21:01,046 - INFO - Generated feedback for CV 10.pdf_feedback.txt
+2025-03-29 17:21:01,046 - INFO - Generated feedback for mark.robinson@devopsmail.com_feedback.txt
+2025-03-29 17:21:01,056 - INFO - Generated feedback for CV 6.pdf_feedback.txt
+2025-03-29 17:21:01,056 - INFO - Generated feedback for alex.turner@dbaexperts.co.uk_feedback.txt
+2025-03-29 17:21:01,056 - INFO - Generated feedback for CV 7.pdf_feedback.txt
+2025-03-29 17:55:38,720 - INFO - NLTK resources initialized successfully
+2025-03-29 17:55:38,734 - INFO - Tesseract OCR initialized successfully.
+2025-03-29 17:55:44,148 - ERROR - OCR failed: (1, 'Error opening data file C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-03-29 17:55:44,148 - INFO - Using fallback text extraction for Datasets\sample cv\scanned cv.pdf
+2025-03-29 17:55:44,165 - INFO - Generated feedback for emily.chen@datascience.com_feedback.txt
+2025-03-29 17:55:44,165 - INFO - Generated feedback for CV 8.pdf_feedback.txt
+2025-03-29 17:55:44,180 - INFO - Generated feedback for sarah.williamson@awsarchitect.com_feedback.txt
+2025-03-29 17:55:44,181 - INFO - Generated feedback for lisa.park@devmail.com_feedback.txt
+2025-03-29 17:55:44,183 - INFO - Generated feedback for david.miller@javadev.net_feedback.txt
+2025-03-29 17:55:44,185 - INFO - Generated feedback for priya.sharma@mlengineer.ca_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for CV 5.pdf_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for CV 4.pdf_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for maria.gonzalez@careerchange.com_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for CV 9.pdf_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for CV 2.pdf_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for CV 3.pdf_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for CV 10.pdf_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for mark.robinson@devopsmail.com_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for CV 6.pdf_feedback.txt
+2025-03-29 17:55:44,187 - INFO - Generated feedback for alex.turner@dbaexperts.co.uk_feedback.txt
+2025-03-29 17:55:44,197 - INFO - Generated feedback for CV 7.pdf_feedback.txt
+2025-03-29 18:04:59,661 - INFO - NLTK resources initialized successfully
+2025-03-29 18:04:59,678 - INFO - Tesseract OCR initialized successfully.
+2025-03-29 18:05:32,534 - ERROR - OCR failed: (1, 'Error opening data file C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-03-29 18:05:32,534 - INFO - Using fallback text extraction for Datasets\sample cv\scanned cv.pdf
+2025-03-29 18:05:32,547 - INFO - Generated feedback for 17111768.pdf_feedback.txt
+2025-03-29 18:05:32,547 - INFO - Generated feedback for 11580408.pdf_feedback.txt
+2025-03-29 18:05:32,563 - INFO - Generated feedback for 11584809.pdf_feedback.txt
+2025-03-29 18:05:32,565 - INFO - Generated feedback for 12045067.pdf_feedback.txt
+2025-03-29 18:05:32,565 - INFO - Generated feedback for 16533554.pdf_feedback.txt
+2025-03-29 18:05:32,574 - INFO - Generated feedback for 13836471.pdf_feedback.txt
+2025-03-29 18:05:32,577 - INFO - Generated feedback for 11957080.pdf_feedback.txt
+2025-03-29 18:05:32,581 - INFO - Generated feedback for 15297298.pdf_feedback.txt
+2025-03-29 18:05:32,583 - INFO - Generated feedback for rafidulhasandip2003@gmail.com_feedback.txt
+2025-03-29 18:05:32,584 - INFO - Generated feedback for 10641230.pdf_feedback.txt
+2025-03-29 18:05:32,585 - INFO - Generated feedback for 10553553.pdf_feedback.txt
+2025-03-29 18:05:32,587 - INFO - Generated feedback for 12763627.pdf_feedback.txt
+2025-03-29 18:05:32,589 - INFO - Generated feedback for 13477922.pdf_feedback.txt
+2025-03-29 18:05:32,591 - INFO - Generated feedback for john.davis@techmail.com_feedback.txt
+2025-03-29 18:05:32,592 - INFO - Generated feedback for 15791766.pdf_feedback.txt
+2025-03-29 18:05:32,592 - INFO - Generated feedback for CV 1.pdf_feedback.txt
+2025-04-03 00:26:38,690 - INFO - NLTK resources initialized successfully
+2025-04-03 00:26:39,509 - INFO - Tesseract OCR initialized successfully.
+2025-04-03 00:31:02,113 - ERROR - OCR failed: Tesseract process timeout
+2025-04-03 00:31:02,117 - INFO - Using fallback text extraction for Datasets\sample cv\scanned cv.pdf
+2025-04-03 00:31:02,176 - INFO - Generated feedback for 17111768.pdf_feedback.txt
+2025-04-03 00:31:02,178 - INFO - Generated feedback for 11580408.pdf_feedback.txt
+2025-04-03 00:31:02,180 - INFO - Generated feedback for 11584809.pdf_feedback.txt
+2025-04-03 00:31:02,182 - INFO - Generated feedback for 12045067.pdf_feedback.txt
+2025-04-03 00:31:02,184 - INFO - Generated feedback for 16533554.pdf_feedback.txt
+2025-04-03 00:31:02,186 - INFO - Generated feedback for 13836471.pdf_feedback.txt
+2025-04-03 00:31:02,188 - INFO - Generated feedback for 11957080.pdf_feedback.txt
+2025-04-03 00:31:02,189 - INFO - Generated feedback for 15297298.pdf_feedback.txt
+2025-04-03 00:31:02,189 - INFO - Generated feedback for rafidulhasandip2003@gmail.com_feedback.txt
+2025-04-03 00:31:02,193 - INFO - Generated feedback for 10641230.pdf_feedback.txt
+2025-04-03 00:31:02,193 - INFO - Generated feedback for 10553553.pdf_feedback.txt
+2025-04-03 00:31:02,197 - INFO - Generated feedback for 12763627.pdf_feedback.txt
+2025-04-03 00:31:02,200 - INFO - Generated feedback for 13477922.pdf_feedback.txt
+2025-04-03 00:31:02,200 - INFO - Generated feedback for john.davis@techmail.com_feedback.txt
+2025-04-03 00:31:02,204 - INFO - Generated feedback for 15791766.pdf_feedback.txt
+2025-04-03 00:31:02,207 - INFO - Generated feedback for CV 1.pdf_feedback.txt
+2025-04-03 20:14:36,720 - INFO - NLTK resources initialized successfully
+2025-04-03 20:14:37,536 - INFO - Tesseract OCR initialized successfully.
+2025-04-03 20:14:37,536 - WARNING - EasyOCR not installed. Run 'pip install easyocr' to enable it.
+2025-04-03 20:15:48,166 - INFO - Detected scanned PDF: Datasets\sample cv\scanned cv.pdf
+2025-04-03 20:15:48,166 - INFO - Processing scanned document with OCR: Datasets\sample cv\scanned cv.pdf
+2025-04-03 20:15:52,484 - INFO - Tesseract OCR completed for page 1
+2025-04-03 20:15:52,700 - INFO - Generated feedback for 17111768.pdf_feedback.txt
+2025-04-03 20:15:52,700 - INFO - Generated feedback for 11580408.pdf_feedback.txt
+2025-04-03 20:15:52,700 - INFO - Generated feedback for 11584809.pdf_feedback.txt
+2025-04-03 20:15:52,700 - INFO - Generated feedback for 12045067.pdf_feedback.txt
+2025-04-03 20:15:52,700 - INFO - Generated feedback for 16533554.pdf_feedback.txt
+2025-04-03 20:15:52,700 - INFO - Generated feedback for 13836471.pdf_feedback.txt
+2025-04-03 20:15:52,700 - INFO - Generated feedback for 11957080.pdf_feedback.txt
+2025-04-03 20:15:52,700 - INFO - Generated feedback for 15297298.pdf_feedback.txt
+2025-04-03 20:15:52,715 - INFO - Generated feedback for rafidulhasandip2003@gmail.com_feedback.txt
+2025-04-03 20:15:52,718 - INFO - Generated feedback for 10641230.pdf_feedback.txt
+2025-04-03 20:15:52,720 - INFO - Generated feedback for 10553553.pdf_feedback.txt
+2025-04-03 20:15:52,721 - INFO - Generated feedback for 12763627.pdf_feedback.txt
+2025-04-03 20:15:52,721 - INFO - Generated feedback for 13477922.pdf_feedback.txt
+2025-04-03 20:15:52,721 - INFO - Generated feedback for john.davis@techmail.com_feedback.txt
+2025-04-03 20:15:52,729 - INFO - Generated feedback for 15791766.pdf_feedback.txt
+2025-04-03 20:15:52,731 - INFO - Generated feedback for CV 1.pdf_feedback.txt
+2025-04-03 20:21:52,211 - INFO - NLTK resources initialized successfully
+2025-04-03 20:21:52,214 - WARNING - Tesseract OCR not available: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-03 20:21:55,306 - INFO - EasyOCR is available.
+2025-04-03 20:23:15,414 - INFO - Detected scanned PDF: Datasets\sample cv\scanned cv.pdf
+2025-04-03 20:23:15,430 - INFO - Processing scanned document with OCR: Datasets\sample cv\scanned cv.pdf
+2025-04-03 20:23:16,528 - ERROR - Tesseract OCR failed for page 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-03 20:23:16,528 - ERROR - OCR failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-03 20:23:16,528 - INFO - Falling back to EasyOCR
+2025-04-03 20:23:16,528 - INFO - Processing scanned document with EasyOCR: Datasets\sample cv\scanned cv.pdf
+2025-04-03 20:23:16,528 - INFO - Initializing EasyOCR reader (first use)...
+2025-04-03 20:23:16,528 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-03 20:23:16,544 - WARNING - Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+2025-04-03 20:23:37,626 - INFO - Download complete
+2025-04-03 20:23:37,626 - WARNING - Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+2025-04-03 20:23:42,211 - INFO - Download complete.
+2025-04-03 20:24:16,340 - INFO - EasyOCR completed for page 1 of Datasets\sample cv\scanned cv.pdf
+2025-04-03 20:24:16,340 - INFO - Successfully extracted text with EasyOCR
+2025-04-03 20:24:16,661 - INFO - Generated feedback for 17111768.pdf_feedback.txt
+2025-04-03 20:24:16,661 - INFO - Generated feedback for 11580408.pdf_feedback.txt
+2025-04-03 20:24:16,661 - INFO - Generated feedback for 11584809.pdf_feedback.txt
+2025-04-03 20:24:16,661 - INFO - Generated feedback for 12045067.pdf_feedback.txt
+2025-04-03 20:24:16,661 - INFO - Generated feedback for 16533554.pdf_feedback.txt
+2025-04-03 20:24:16,661 - INFO - Generated feedback for 13836471.pdf_feedback.txt
+2025-04-03 20:24:16,676 - INFO - Generated feedback for 11957080.pdf_feedback.txt
+2025-04-03 20:24:16,676 - INFO - Generated feedback for 15297298.pdf_feedback.txt
+2025-04-03 20:24:16,681 - INFO - Generated feedback for rafidulhasandip2003@gmail.com_feedback.txt
+2025-04-03 20:24:16,683 - INFO - Generated feedback for 10641230.pdf_feedback.txt
+2025-04-03 20:24:16,683 - INFO - Generated feedback for 10553553.pdf_feedback.txt
+2025-04-03 20:24:16,683 - INFO - Generated feedback for 12763627.pdf_feedback.txt
+2025-04-03 20:24:16,690 - INFO - Generated feedback for 13477922.pdf_feedback.txt
+2025-04-03 20:24:16,692 - INFO - Generated feedback for john.davis@techmail.com_feedback.txt
+2025-04-03 20:24:16,695 - INFO - Generated feedback for 15791766.pdf_feedback.txt
+2025-04-03 20:24:16,697 - INFO - Generated feedback for CV 1.pdf_feedback.txt
