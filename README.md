@@ -1,3 +1,2 @@
 Amanullah Shah
-.
-00.
+0
