@@ -1,2 +1,1 @@
-Amanullah Shah
-0
+
