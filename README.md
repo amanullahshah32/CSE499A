@@ -15,7 +15,7 @@ Welcome to the **Automated Attendance System Using Face Recognition** project! T
 - [License](#license)
 - [Contact](#contact)
 
----0.h
+---0.h./
 
 ## Overview
 
