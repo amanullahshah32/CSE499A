@@ -10,7 +10,7 @@ Welcome to the **Automated Attendance System Using Face Recognition** project! T
 - [Tech Stack](#tech-stack)52635054
 - [Usage](#usage)
 - [Project Structure](#project-structure)4545
-- [Contributing](#contributing)56554
+- [Contributing](#contributing)56554jklk
 - [License](#license)
 - [Contact](#contact)kkkljhkhjh2341511454
 
