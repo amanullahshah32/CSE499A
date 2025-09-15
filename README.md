@@ -12,7 +12,7 @@ Welcome to the **Automated Attendance System Using Face Recognition** project! T
 - [Project Structure](#project-structure)4545
 - [Contributing](#contributing)56554jklk
 - [License](#license)sdsds
-- [Contact](#contact)kkkljhkhjh2341511454
+- [Contact](#contact)kkkljhkhjh234151145412154
 
 ---0.h./ amnds.//hjh bjhb hgbjjk ghj
 
