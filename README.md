@@ -13,9 +13,9 @@ Welcome to the **Automated Attendasdfsdfdsnce System Using Face Recognition** pr
 - [License](#license)sdsdshgfhghkkl
 - [Contact](#contact)kkkljhkhjh234151145412154fgfg
 415
----0.h./ amnds.//hjh bjhb hgbjjk ghj
+---0.h./ amnds.//hjh bjhb hgbjjk ghjhh
 
-## Overviewgfh hg012
+## Overviewgfh hg012fg
 6556
 This project aims to revolutionize the traditional attendance process by using face recognition for automated and secure attendance marking. The system captures facial images, recognizes individuals, and records their attendance in real time, reducing manual effort and minimizing errors.
 dsfdf
