@@ -2,7 +2,7 @@
 # Automated Attendance System Using Face Recognition
 
 Welcome to the **Automated Attendasdfsdfdsnce System Using Face Recognition** project! This repository contains the source code and documentation for a smart, efficient, and contactless attendance system leveraging modern face recognition technologies.
-2
+2fgfg
 ## Table of Contents
 
 - [Overview](#overview)hghgh
