@@ -9,7 +9,7 @@ Welcome to the **Automated Attendasdfsdfdsnce System Using Face Recognition** pr
 - [Tech Stack](#tech-stack)52635054dsds
 - [Usage](#usage)885458
 - [Project Structure](#project-structure)4545SDsdf
-- [Contributing](#contributing)56554jklk5656
+- [Contributing](#contributing)56554jklk5656gfg
 - [License](#license)sdsdshgfhgh
 - [Contact](#contact)kkkljhkhjh234151145412154fgfg
 415
