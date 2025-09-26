@@ -6,7 +6,7 @@ Welcome to the **Automated Attendasdfsdfdsnce System Using Face Recognition** pr
 ## Table of Contents
 
 - [Overview](#overview)hghghjkijk
-- [Tech Stack](#tech-stack)52635054dsds
+- [Tech Stack](#tech-stack)52635054dsdsfdfd
 - [Usage](#usage)885458
 - [Project Structure](#project-structure)4545SDsdf
 - [Contributing](#contributing)56554jklk5656gfg
