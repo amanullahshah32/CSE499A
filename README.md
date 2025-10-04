@@ -31,7 +31,7 @@ dsfdf
 ## Tech Stack
 
 - **Backend**: Python (Flask/Django or similar)
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScriptggg
 - **Face Recognition**: OpenCV, Dlib, face_recognition library
 - **Database**: SQLite/MySQL/PostgreSQL
 - **Others**: Pandas, Numpy
