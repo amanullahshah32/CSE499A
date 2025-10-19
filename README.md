@@ -21,7 +21,7 @@ This project aims to revolutionize the traditional attendance process by using f
 dsfdf
 ## Features
 5665
-- 🎯 **Accurate Face Recognition**: Utilizes advanced algorithms for reliable identification.
+- 🎯 **Accurate Face Recognition**: Utilizes advanced algorithms for reliable identifdfdication.
 - ⏱️ **Real-Time Attendance**: Instantly marks attendance as soon as a user is recognized.
 - 🗄️ **Database Integration**: Stores attendance logs efficiently.
 - 📊 **Attendance Reports**: Generate dfdfand export detailed attendance reports.
