@@ -20,7 +20,7 @@ fdfddddfdfjkjjkj
 This project aims to revolutionize the traditional attendance process by using face recognition for automated and secure attendance marking. The system captures facial images, recognizes individuals, and records their attendance in real time, reducing manual effort and minimizing errors.
 dsfdf
 ## Featuresdsfdf
-5665
+5665ijoi
 - 🎯 **Accurate Face Recognition**: Utilizes advanced algorithms for reliable identifdfdication.
 - ⏱️ **Real-Time Attendance**: Instantly marks kattendance as soon as a user is recognized.
 - 🗄️ **Database Integration**: Stores attendance logs efficiently.
