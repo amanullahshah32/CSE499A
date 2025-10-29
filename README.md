@@ -24,7 +24,7 @@ dsfdf
 - 🎯 **Accurate Face Recognition**: Utilizes advanced algorithms for reliable identifdfdication.
 - ⏱️ **Real-Time Attendance**: Instantly marks kattendance as soon as a user is recognized.
 - 🗄️ **Database Integration**: Stores attendance logs efficiently.dfdf
-- 📊 **Attendance Reports**: Generate dfdfand export detailed attendance reports.
+- 📊 **Attendance Reports**: Generate dfdfand export detailed attendance rghgheports.
 - 🔒 **Secure & Contactless**: No physical interaction required, enhancing safety and hygiene.
 - 🖥️ **User-Friendly Interface**: Simple and intuitive UI for both administrators and users.
 
