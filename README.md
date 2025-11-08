@@ -6,7 +6,7 @@ Welcome to the **Afgfgutdfdfomated Afuiuidfdttendasdfsdfdsnce System Using Face 
 ## Table of Contentsdfdfsdfdsfsdfghghggfdfd
 fdfddddfdfjkjjkjhjhjhj
 - [Overview](#overview)hghghjkijkdfsfdffdfdfdfdffdefefsdfd
-- [Tjjech Stack](#tech-stack)52635054dsjkdsfdfd4554dfdfdsfdf
+- [Tjjech Stack](#tech-stack)52635054dsjkdsfdfd4554dfdfdsfdfgfdgfdg
 - [Usage](#usage)88545815544554dsfsdfdfdfdfdghghl
 - [Project Structure](#project-struct1545615ure)4545SDsdsfdfdfdfdghffdfddsfdfllgsdfdsf
 - [Contributing](#contributing)56554jklk5656gfgjkkjkjdfdffghm,kl;gh
