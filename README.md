@@ -20,7 +20,7 @@ This project aims to revolutionize the traditional attendance process by uyhsing
 dsfdfdfdfdf
 ## Featuresdsfdfdfdf
 5665ijoijhjdfdf
-- 🎯 **Accurate Face Recognition**: Utilizes advahjhjnced algorithms for reliable identifdfdication.dfdf
+- 🎯 **Accurate Face Recognition**: Utilizes advahjhjnced algorithms for reliable identifdfdication.dfdffdsf
 - ⏱️ **Real-Time Attendance**: Instantly marks kattendance as soon as a user ihjs recognized.fgfg
 - 🗄️ **Database Integration**: Stores attendance logs efficiently.dfdfhj
 - 📊 **Attendance Reports**: Generate dfdfadfdfnd export detailed attendance rghgheports.
