@@ -5,7 +5,7 @@ Welcome to the **Afgfgutddsfdffdfomated Afuiuidfdttendasdfsdfdsnce System Using 
 2fgfgyydfdfdfdffgfgsdfdsfggf
 ## Table of Contentsdfdfsdfdsfsdfghghggfdfdfdffddfdf
 fdfddddfdfjkjjkdfdfjhjhjdfdfhjrfgfdfdfgdfdfdsfdffgfg
-- [Tjjechdfdf Stack](#tech-stackdfdf)52635054dfdfdsjkdsfdfd4554dfdfdsfdfgfdgfdg
+- [Tjjechdfdf Stack](#tech-stackdfdf)52635054dfdfddfsjkdsfdfd4554dfdfdsfdfgfdgfdg
 - [Usage](#usage)885dfd45815544554dsfsdfdfdfdfdghghldfdffgfgdfdf
 - [Project Structure](#project-struct1545615ure)4545SDsdsffgfgdfdfdfdghffdfddsfdfllgsdfdsfdfdf
 - [Contributing](#contributing)56554jklk5656gfgjkkjkjdfdffghm,kldf;ghdsfdsf
