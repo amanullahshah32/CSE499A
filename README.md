@@ -3,7 +3,7 @@ grgvluiu
 ghghdfd
 Welcome to the lll**Afgfgutddsfdffdfomadsfdted Afdfdfuiuidfdttendasdfsdfdsnce System Using Face dfdfRecognition** projedfdct! This repository contains the source code and documentation for a smart, efficient, and contactless attendance system leveraging modern face recognition technologies.njdfdf232dfd
 2fgfgyydfdfdfdfdfdffgfgsdfdsfggf
-## Table of Contentsdfdfsdfdsfsdfghggfghggfdfdfdffddfdfdfdfdfdnj
+## Table of Contentsdfdfsdfdsfsdfghggffdghggfdfdfdffddfdfdfdfdfdnj
 fdfdddddfdffdfjkjjkdfdfjhjhjdfdffdfdhjrfgfdfddfdfgdfddfdfdsfddfdfffgfdfdfgsdsd
 - [Tjjechdfdf Stack](#tech-stackdfdfdfd)52635054dfdfddfsjkdsfdfd4554dfdffdsfdfgfdgfdg
 - [Usage](#usage)885dfd45815544554dsfsdfdfdfdfdghdffdghldfdffgfgdfdfdfdf
