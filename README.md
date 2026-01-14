@@ -14,7 +14,7 @@ fdfdddddfdffdfjkjjkdfdfjhjhjdfdffdfdhfdfjrfgfdfddfdfgdfddfdfdsfddfdfffgfdfdfgsds
 415dfdfd56561ghghldfdlljdf
 ---0.h./ amnds.//hjh bjhb hdfedgbjjk ghjhhl;l;lggdfdfllll,,
 0033.4545dfdfgfgdfddfduudfdfdfd
-## Overviewgfh hg012fgfdfd02ijSDdhjhjgfdfddff
+## Overviewgfh hg012fgfdfd02ijSDdhjhjgfdfddffdfd
 6556dfddf5656oiiuuo,,dfdf
 This project aims to revolutionize the traditional attendance process dfdby uyhsingfdf face recognition for automated and secure mlattendance marking. The system captures facial images, recognizes individuals, and records their attendance in real time, reducing manual effort and minimizing errors.dfdsdfgfds
 dsfdfdfdfdf
