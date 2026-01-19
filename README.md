@@ -4,7 +4,7 @@ ghghdfddfd
 Welcome to the lll**Afgfgudftddsfdfdfdffdfomadsfdted Afdfdfuiuidfdttendasdfsdfdsnce System Using Face dfdfRecognition** projedfdct! Thifgfs repository contains the source code and documentation for a smart, efficient, and contactless attendance system leveraging modern face recognition technologiesdfdf.njdfdf232dfd
 2fgfgyydfdfdffddfdfdfdffgfgsdfdsfggdfdDFDFf
 ## Table of Contentsdfdfsdfdsfsdfgdfhggffdghggfdfdfdffddfdfffddfdfdfdfdfdfdnj
-fdfdddddDFDFfdffdfjkjjkdfdfjhjhjdfdffdfdhfdfjrfgfdfddfdfgdfddfdfdsfddfdfffgfdfdfgsdsd
+fdfdddddDFDFfdffdfjkjjkdfdfjhjhjdfdffdfdhfdfjrfgfdfddfdfgdfddfdfdsfddfdfffgfdfdfgsdsddfgd
 - [Tjjechdfdf SDFDtack](#tech-stadfdfckdffdfdfdfd)526dfdf35df054dfdfdDFDFdfsjkdsfdfd4554dfdffdsfdfdfdfgfdgfdg
 - [Usage](#usage)885dDFDFfd458155trttt44554dsfsdfddfddfdfdfdghdffdghldfdffgfgdfdfdfdf,
 - [Project Structure](#project-struct1545615ure)4545SDsdsffgfgdfdfdfdfdghfffdfddsfdfllgsdfdsfdfdfjj
