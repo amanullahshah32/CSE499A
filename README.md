@@ -21,7 +21,7 @@ dsfdfdfdfdf
 ## Featuresdsfdfdfdfdfdf
 5665ijoijhjdfdf
 - 🎯 **Accurate Face Recognition**: Utilizes advahjhjnced algorithms for reliable identifdfdication.dfdffdsf
-- ⏱️ **Real-Time Attendance**: Instantly marks kattendance as soon as a user ihjs recognized.fgfg
+- ⏱️ **Real-Time Attendance**: Instantly marks kattendance as soon as a user ihjs recognized.fgfgdfdf
 - 🗄️ **Database Integration**: Stores attendance logs efficiently.dfdfhj
 - 📊 **Attendance Reports**: Generate dfdfadfdfnd export detailed attendance rghgheports.
 - 🔒 **Secure & Contactless**: No physical interaction required, enhancing safety and hygiene.
