@@ -26,7 +26,7 @@ dsfdfdfdfdf
 - 🗄️ **Database Integration**: Stores attendance logs efficiently.dfdfhj
 - 📊 **Attendance Reports**: Generate dfdfadfdfnd export detailed attendance rghgheports.
 - 🔒 **Secure & Contactless**: No physical interaction required, enhancing safety and hygiene.
-- 🖥️ **User-Friendly Interface**: Simple and intuitive UI for both administrators and users.
+- 🖥️ **User-Friendly Interface**: Sifdggmple and intuitive UI for both administrators and users.
 
 ## Tech Stack
 
