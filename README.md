@@ -7,14 +7,14 @@ Welcome tdfdfo dfdfthe lll**Afgfgudftddsfdfdfdffdfomadsfdted Afdfdfuiuidfdttenda
 ## Table of dfdfContentsdfddffsdfdsfsdfgdfhggffdghgdfdgfdfdfdffddfdfffddfdfdfdfdfdfdnj
 fdfdddddDFDFfdffdfjdfdfdfdfkjjkdfdfjhjhjdfdffdfdhfdfjrfgfdfddfdfgdfddfdfdsfddfdfffgfdfdfgsdsddfgddsfdw
 - [Tjjechdfdf SDFDtack](#tech-sdfdtadfdfckddfffdfdffdfdfdfd)526dfdf35df054dfdfdDFDFdfsjkdsfdfd4554dfdffdsfdfdfdfgfdgfdgfgd
-- [Usage](#usage)vds885dDFDFfd458155trttt44554dsfsdfddfddfdfdfdfdfdghdffdghldfdffgfgddfdffdfdfdf,fd
+- [Usage](#usage)vds885dDFDFfd458155trttt44554dsfsdfddfddfdfdfdfdfdghdffdghldfdffgfgddfdffdfdfdf,fdbn
 - [Project Structure](#project-struct1545615ure)4545SDsdsdffffgfgdfdfdfdfdghfffdfddsfdfllgsdfdsfdfdfjj
 - [Contributing](#contributingdfdfdfdf)56554jklk56gbffg56gfgjkkjkjdfdffdfghm,kldf;ghdsfdsfff
 - [License](#license)sdsdshgfhghkdfklvcfdfffduuhjjhfdsgjkkhgff;kldsfsxvdfdffdghfdfkjkjddsfdfkllk
 - [Contact](#contact)dfdkkkljhkhjh234151145412154fdfdffggfgmkklfdffdhgfdfddqdfddfdffdfdsfdfdfdfdfrtrt
 415dfdfd56561ghghldfdlljdfDFDFsddfds
 ---0.h./ amnds.//hjh bjhb hdfedgbjjk ghjhhl;l;lggdfdfllll,,
-0033.4545dfdfgfgdfddfduudfdfdfddfd
+0033.4545dfdfgfgdfddfduudfdfdfddfdgh
 ## Overviewgfh hg012fgfdfd02ijSDdhjhjgfdfddffdfd
 6556dfddf5656oiiuuo,,dfdfGGF
 This project aims to revolutionize the traditional attendance process dfdby uyhsingfdf face recfgfognition for automated and secure mlattendance marking. Txcssdshe system captures facial images, recognizes individuals, and records their attendance in real time, reducing manual effort and minimizing errors.dfdsdfgfdsdfd
