@@ -8,7 +8,7 @@ Welcome tdfdfo dfdfthe lll**Afgfgudftddsfdfdfdffdfomadsfdted Afdfdfuiuidfdttenda
 fdfdddddDFDFfdffdfjdfdfdfdfkjjkdffgfdfjhjhjdfdffdfdhfdfjrfgfdfddfdfgdfddfdfdsfddfdfffgfdfdfgsdsddfgddsfdw
 - [Tjjechdfdf SDFDtack](#tech-sdfdtadfdfckddfffdfdffdfdfdfd)526dfdf35df054dfdfdDFDFdfsjkdsfdfd4554dfdffdsfdfdfdfgfdgfdgfgd
 - [Usage](#usage)vds885dDFDFfd458155trttt44554dsfsdfddfddfdfdfdfdfdghdffdghldfdffgfgddfdffdfdfdf,fdbn
-- [Project Structure](#project-struct1545615ure)4545SDsdsdffffgfgdfdfdfdfdghfffdfddsfdfllgsdfdsfdfdfjj
+- [Project Structure](#project-struct1545615ure)454g5SDsdsdffffgfgdfdfdfdfdghfffdfddsfdfllgsdfdsfdfdfjj
 - [Contributing](#contributingdfdfdfdf)56554jklk56gbffg56gfgjkkjkjdfdffdfghm,kldf;ghdsfdsfff
 - [License](#license)sdsdshgfhghkdfklvcfdfffduuhjjhfdsgjkkhgff;kldsfsxvdfdffdghfdfkjkjddsfdfkllk
 - [Contact](#contact)dfdkkkljhkhjh234151145412154fdfdffggfgmkklfdffdhgfdfddqdfddfdffdfdsfdfdfdfdfrtrt
@@ -34,7 +34,7 @@ dsfdfdfdfdf
 - **Frontend**: HTML, CSS, JavaScriptggg
 - **Face Recognition**: OpenCV, Dlib, face_recognition library
 - **Database**: SQLite/MySQL/PostgreSQL
-- **Others**: Pandas, Numpy
+- **Others**: Pandas,df Numpyd f
 
 > _Note: Update the tech stack according to your actual project implementation._
 
