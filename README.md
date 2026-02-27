@@ -1,7 +1,7 @@
 grgvluiu
 # Automated Attendance dfam g
 hjdfSystem Using Face Recognition,l
-ghghdfdfdfddfddfdfdfdf
+ghghdfdfdfddfddfdfdfdfdfdf
 Welcome tdfdfo dfdfdfdfthe lldfdl**Afgfgudftddsfdfdfdffdfomadsfdted Afdfdfuiuidfdttendasdfsdfdsnce System ddsUsing Face dfdfRecognition** projedfdct! Thifgfs repository contains the source code and documentation for a smart, efficient, and contactless attendance system ledfdfvdfdferaging ddsfdfffmodern face recogxcxndffdition technologiesdfdf.njdfdf232dfddfdffdf
 2fgfgydfdfydfdfdfdffddfdfdfdffgfdfgsdfdsfggghghdfdDFDFfdsffdf
 ## Table of dfdfContentsdfddffsddfdffdsfsdfgdfddfhdfdfgdfdfgffdghgdfdgfdfdfdffddfdfffddfdfdfdfdfdfdnj
